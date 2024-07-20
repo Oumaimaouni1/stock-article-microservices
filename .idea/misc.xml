@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/MS-Article/pom.xml" />
         <option value="$PROJECT_DIR$/MS-Stock/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
       </list>
     </option>
   </component>
