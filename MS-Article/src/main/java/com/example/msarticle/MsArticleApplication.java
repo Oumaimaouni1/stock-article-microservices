@@ -9,7 +9,6 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableFeignClients
 @EnableDiscoveryClient
 public class MsArticleApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(MsArticleApplication.class, args);
     }
