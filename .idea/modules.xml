@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MS-Article/MS-Article.iml" filepath="$PROJECT_DIR$/MS-Article/MS-Article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-Stock/MS-Stock.iml" filepath="$PROJECT_DIR$/MS-Stock/MS-Stock.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/stock-article-microservices.iml" filepath="$PROJECT_DIR$/.idea/stock-article-microservices.iml" />
     </modules>
   </component>

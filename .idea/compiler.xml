@@ -7,15 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MS-Article" />
+        <module name="MS-Stock" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="MS-Article" target="17" />
+      <module name="MS-Stock" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="MS-Article" options="-parameters" />
+      <module name="MS-Stock" options="-parameters" />
     </option>
   </component>
 </project>
